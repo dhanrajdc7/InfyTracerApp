@@ -8,11 +8,20 @@ include_in_header: true
 
 <br>
 
+# **Version 1.1**
+InfyTracer is an app inspired by the idea of automating the process of typing & adding bulk contacts from various papers, documents, receipts, cards, etc. in any event. Infytracer helps to scan documents & extract essential information from it.
+
+#### What's New
+- Added Social Box
+- Bug Fixes & Performance Improvements
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 InfyTracer is an app inspired by the idea of automating the process of typing & adding bulk contacts from various papers, documents, receipts, cards, etc. in any event. Infytracer helps to scan documents & extract essential information from it.
 
-#### What's New
+#### Features
 - **Scan**: Scan Documents Easily
 - **Smart Doc Detection**: Detects Doc & Captures Them Quickly
 - **Extract**: Trace Important Info From Pic
